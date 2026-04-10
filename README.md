@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# Contexto del producto — Sistema Turnero (Módulo Prestadores)
+
+Este directorio concentra la documentación de producto para el **Módulo de Empresas Prestadoras** del Parque Provincial Aconcagua / Áreas Naturales Protegidas (ANP), integrado al **Sistema Turnero** existente.
+
+## Índice
+
+| Documento | Contenido |
+|-----------|-----------|
+| [PRD-v0.1-modulo-prestadores.md](./PRD-v0.1-modulo-prestadores.md) | PRD completo (versión 0.1, borrador stakeholders) |
+| [alcance-y-limites.md](./alcance-y-limites.md) | Alcance IN/OUT y etapas futuras (resumen) |
+| [roles-y-trazabilidad.md](./roles-y-trazabilidad.md) | Roles, permisos y requisitos de auditoría |
+| [modelo-datos-v0.1.md](./modelo-datos-v0.1.md) | Placeholder del modelo de datos (pendiente de definición) |
+| [prototipo-frontend-notas.md](./prototipo-frontend-notas.md) | Notas para el prototipo UI y convenciones del repo |
+
+**Versión del PRD referenciada:** 0.1 · Estado: borrador inicial para iteración con stakeholders.
